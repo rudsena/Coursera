@@ -1,0 +1,23 @@
+referrer_source,referrer_name,location_city,total_visitors,total_sessions
+Direct,,Columbus,20,20
+Direct,,Boardman,16,16
+Direct,,Saldanha,3,7
+Direct,,Johannesburg,5,6
+Direct,,Montreal,4,4
+Search,Google,Johannesburg,4,4
+Search,Google,Cape Town,4,4
+Search,Google,Durban,3,3
+Direct,,Cape Town,3,3
+Search,Google,Roodepoort,2,2
+Social,Facebook,Clifton,2,2
+Social,Facebook,Ashburn,2,2
+Social,Facebook,,2,2
+Search,Bing,Cape Town,1,2
+Direct,,Pretoria,1,1
+Direct,,Port Elizabeth,1,1
+Direct,,Kempton Park,1,1
+Social,Instagram,Durban,1,1
+Social,Facebook,Clonee,1,1
+Search,Google,Kent,1,1
+Search,Google,Pretoria,1,1
+Search,Yandex,St Petersburg,1,1
